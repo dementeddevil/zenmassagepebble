@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Zen Design Software",
+    "longName": "ZenMassage",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "ZenMassage",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "29207e29-1f35-4f89-9871-0a579e84d105",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "onlyShownOnCommunication": true,
+        "watchface": false
+    }
+}
