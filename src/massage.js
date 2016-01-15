@@ -5,7 +5,7 @@ Pebble.addEventListener('ready', function(e) {
 Pebble.addEventListener('showConfiguration', function(e) {
   // Show configuration page
   // TODO: Pass user's timeline user key to config endpoint
-  Pebble.openURL('http://azurewebsites/zenmassage/pebble/index');
+  Pebble.openURL('http://aeromassage/azurewebsites.net/pebble/index');
 });
 
 Pebble.addEventListener('webviewclosed', function(e) {
